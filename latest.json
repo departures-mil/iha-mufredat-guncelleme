@@ -1,12 +1,12 @@
 {
- "version": "3.0",
- "file": "paketler/iha_3_0.b64",
- "sha256": "f18a43804a07a59a9afe217156a9b89f5a8833663ba871eec76c9fb15164a28f",
- "size": 1406139,
- "gzlen": 837064,
- "date": "2026-11-22T06:30:14Z",
+ "version": "3.1",
+ "file": "paketler/iha_3_1.b64",
+ "sha256": "50ece1bba3e499bac7a6e996fae177fb1ce24fed3f0a6ed9272b728d1d970280",
+ "size": 1552014,
+ "gzlen": 915132,
+ "date": "2026-11-22T14:00:23Z",
  "minShell": 2,
- "notes_tr": "• Ayarlar'a «Kullanım Limitleri» eklendi: kendi Firebase hesabınızın bugünkü okuma/yazma/silme kullanımı ve sıfırlanmaya kalan süre.\n• Artık her kurum kendi ücretsiz Firebase hesabını kullanır (Ayarlar › Senkronizasyon'daki rehber). Kayıtlar ve yedekler değişmedi.",
- "notes_en": "• Settings now show «Usage limits»: today's reads/writes/deletes on your own Firebase account and time to reset.\n• Every institution now uses its own free Firebase account (guide in Settings › Sync). Records and backups are unchanged.",
- "notes_ar": "• أُضيف «حدود الاستخدام» إلى الإعدادات: قراءات/كتابات/حذف اليوم على حساب Firebase الخاص بك والوقت المتبقي لإعادة التعيين.\n• أصبحت كل مؤسسة تستخدم حساب Firebase المجاني الخاص بها (الدليل في الإعدادات › المزامنة). لم تتغير السجلات والنسخ الاحتياطية."
+ "notes_tr": "• Sağ üst köşede pencere düğmeleri: küçült, tam ekran ⇄ pencere, kapat.\n• Çakışmasız eşitleme: iki cihazda değişen kayıtlar alan alan birleştirilir, hiçbir veri kaybolmaz (Ayarlar › Çakışma kayıtları).\n• İnternetsiz eşitleme: aynı modem/Wi‑Fi ağındaki bilgisayarlar ortak kodla eşitlenir.\n• Yedekten tek tıkla geri yükleme.\n• Program çekirdeği artık kendiliğinden güncellenir (ilk seferde program birkaç saniye kapanıp açılır).\n• Açılış ekranı, Yenilikler penceresi, klavye kısayolları, ayrıntılı Hakkında, otomatik hata raporu.\n• Kayıtlar ve yedekler aynen korunur.",
+ "notes_en": "• Window buttons at the top right: minimise, full screen ⇄ window, close.\n• Conflict-free sync: records changed on two devices are merged field by field; nothing is lost (Settings › Sync conflicts).\n• Offline sync: computers on the same router/Wi‑Fi sync with a shared code.\n• One-click restore from backup.\n• The program core now updates itself (the first time the program closes and reopens in a few seconds).\n• Splash screen, What's new window, keyboard shortcuts, detailed About, automatic error reports.\n• Records and backups are kept unchanged.",
+ "notes_ar": "• أزرار النافذة في أعلى اليمين: تصغير، ملء الشاشة ⇄ نافذة، إغلاق.\n• مزامنة بلا تعارض: تُدمج السجلات المتغيرة على جهازين حقلًا حقلًا ولا يضيع شيء (الإعدادات › سجلّ التعارضات).\n• مزامنة دون إنترنت: تتزامن الحواسيب على الموجّه/شبكة Wi‑Fi نفسها برمز مشترك.\n• استعادة النسخة الاحتياطية بنقرة واحدة.\n• نواة البرنامج تُحدَّث ذاتيًا الآن (في المرة الأولى يُغلق البرنامج ويُفتح خلال ثوانٍ).\n• شاشة افتتاحية، نافذة الجديد، اختصارات لوحة المفاتيح، قسم حول مفصّل، تقارير أخطاء تلقائية.\n• السجلات والنسخ الاحتياطية محفوظة كما هي."
 }
