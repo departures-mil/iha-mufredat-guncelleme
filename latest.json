@@ -1,12 +1,12 @@
 {
- "version": "2.8",
- "file": "paketler/iha_2_8.b64",
- "sha256": "c52bdea3843bb61778485d9452e62757d46e40817eb4bf0469e6d4c5c87ced3f",
- "size": 1359521,
- "gzlen": 812668,
- "date": "2026-11-22T03:59:18Z",
+ "version": "2.9",
+ "file": "paketler/iha_2_9.b64",
+ "sha256": "715a8d172b55e8b8bf9ce7795d51e3d853f998d735d7c91fdc04aa585a83bbc7",
+ "size": 1372039,
+ "gzlen": 819236,
+ "date": "2026-11-22T04:05:10Z",
  "minShell": 2,
- "notes_tr": "• Güncellemeler artık GitHub üzerinden dağıtılıyor; Firebase kanalı yedek olarak çalışmaya devam ediyor.\n• İndirme sırasında yüzde, MB ve hız gösterilir.\n• Kayıtlar, yedekler ve eşitleme değişmedi.",
- "notes_en": "• Updates are now delivered through GitHub; the Firebase channel keeps working as a backup.\n• Percent, MB and speed are shown while downloading.\n• Records, backups and sync are unchanged.",
- "notes_ar": "• أصبحت التحديثات تُوزَّع عبر GitHub، وتبقى قناة Firebase احتياطية.\n• تُعرض النسبة والحجم بالميغابايت والسرعة أثناء التنزيل.\n• لم تتغير السجلات والنسخ الاحتياطية والمزامنة."
+ "notes_tr": "• Admin duyuruları eklendi: yeni duyurular programda görünür, 🔔 düğmesinden okunur.\n• Kayıtlar, yedekler ve eşitleme değişmedi.",
+ "notes_en": "• Admin announcements added: new announcements appear in the program and can be re-read from the 🔔 button.\n• Records, backups and sync are unchanged.",
+ "notes_ar": "• أُضيفت إعلانات المدير: تظهر الإعلانات الجديدة في البرنامج ويمكن قراءتها مجددًا من زر 🔔.\n• لم تتغير السجلات والنسخ الاحتياطية والمزامنة."
 }
