@@ -1,12 +1,12 @@
 {
- "version": "2.9",
- "file": "paketler/iha_2_9.b64",
- "sha256": "715a8d172b55e8b8bf9ce7795d51e3d853f998d735d7c91fdc04aa585a83bbc7",
- "size": 1372039,
- "gzlen": 819236,
- "date": "2026-11-22T04:05:10Z",
+ "version": "3.0",
+ "file": "paketler/iha_3_0.b64",
+ "sha256": "f18a43804a07a59a9afe217156a9b89f5a8833663ba871eec76c9fb15164a28f",
+ "size": 1406139,
+ "gzlen": 837064,
+ "date": "2026-11-22T06:30:14Z",
  "minShell": 2,
- "notes_tr": "• Admin duyuruları eklendi: yeni duyurular programda görünür, 🔔 düğmesinden okunur.\n• Kayıtlar, yedekler ve eşitleme değişmedi.",
- "notes_en": "• Admin announcements added: new announcements appear in the program and can be re-read from the 🔔 button.\n• Records, backups and sync are unchanged.",
- "notes_ar": "• أُضيفت إعلانات المدير: تظهر الإعلانات الجديدة في البرنامج ويمكن قراءتها مجددًا من زر 🔔.\n• لم تتغير السجلات والنسخ الاحتياطية والمزامنة."
+ "notes_tr": "• Ayarlar'a «Kullanım Limitleri» eklendi: kendi Firebase hesabınızın bugünkü okuma/yazma/silme kullanımı ve sıfırlanmaya kalan süre.\n• Artık her kurum kendi ücretsiz Firebase hesabını kullanır (Ayarlar › Senkronizasyon'daki rehber). Kayıtlar ve yedekler değişmedi.",
+ "notes_en": "• Settings now show «Usage limits»: today's reads/writes/deletes on your own Firebase account and time to reset.\n• Every institution now uses its own free Firebase account (guide in Settings › Sync). Records and backups are unchanged.",
+ "notes_ar": "• أُضيف «حدود الاستخدام» إلى الإعدادات: قراءات/كتابات/حذف اليوم على حساب Firebase الخاص بك والوقت المتبقي لإعادة التعيين.\n• أصبحت كل مؤسسة تستخدم حساب Firebase المجاني الخاص بها (الدليل في الإعدادات › المزامنة). لم تتغير السجلات والنسخ الاحتياطية."
 }
