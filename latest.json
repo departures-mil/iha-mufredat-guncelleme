@@ -1,12 +1,12 @@
 {
- "version": "3.1",
- "file": "paketler/iha_3_1.b64",
- "sha256": "50ece1bba3e499bac7a6e996fae177fb1ce24fed3f0a6ed9272b728d1d970280",
- "size": 1552014,
- "gzlen": 915132,
- "date": "2026-11-22T14:00:23Z",
+ "version": "3.2",
+ "file": "paketler/iha_3_2.b64",
+ "sha256": "6da05893f0f8302532181b929eb93d8373395f2a73571528432a7e600a4b8137",
+ "size": 1641840,
+ "gzlen": 958576,
+ "date": "2026-11-23T07:33:24Z",
  "minShell": 2,
- "notes_tr": "• Sağ üst köşede pencere düğmeleri: küçült, tam ekran ⇄ pencere, kapat.\n• Çakışmasız eşitleme: iki cihazda değişen kayıtlar alan alan birleştirilir, hiçbir veri kaybolmaz (Ayarlar › Çakışma kayıtları).\n• İnternetsiz eşitleme: aynı modem/Wi‑Fi ağındaki bilgisayarlar ortak kodla eşitlenir.\n• Yedekten tek tıkla geri yükleme.\n• Program çekirdeği artık kendiliğinden güncellenir (ilk seferde program birkaç saniye kapanıp açılır).\n• Açılış ekranı, Yenilikler penceresi, klavye kısayolları, ayrıntılı Hakkında, otomatik hata raporu.\n• Kayıtlar ve yedekler aynen korunur.",
- "notes_en": "• Window buttons at the top right: minimise, full screen ⇄ window, close.\n• Conflict-free sync: records changed on two devices are merged field by field; nothing is lost (Settings › Sync conflicts).\n• Offline sync: computers on the same router/Wi‑Fi sync with a shared code.\n• One-click restore from backup.\n• The program core now updates itself (the first time the program closes and reopens in a few seconds).\n• Splash screen, What's new window, keyboard shortcuts, detailed About, automatic error reports.\n• Records and backups are kept unchanged.",
- "notes_ar": "• أزرار النافذة في أعلى اليمين: تصغير، ملء الشاشة ⇄ نافذة، إغلاق.\n• مزامنة بلا تعارض: تُدمج السجلات المتغيرة على جهازين حقلًا حقلًا ولا يضيع شيء (الإعدادات › سجلّ التعارضات).\n• مزامنة دون إنترنت: تتزامن الحواسيب على الموجّه/شبكة Wi‑Fi نفسها برمز مشترك.\n• استعادة النسخة الاحتياطية بنقرة واحدة.\n• نواة البرنامج تُحدَّث ذاتيًا الآن (في المرة الأولى يُغلق البرنامج ويُفتح خلال ثوانٍ).\n• شاشة افتتاحية، نافذة الجديد، اختصارات لوحة المفاتيح، قسم حول مفصّل، تقارير أخطاء تلقائية.\n• السجلات والنسخ الاحتياطية محفوظة كما هي."
+ "notes_tr": "• Yapay zeka danışmanı: sol menüde «Danışman». Müfredat, ders planı, öğrenci gelişimi, güvenlik ve İHA teknolojileri hakkında sorular sorun; cevaplar kurumunuzun müfredatına, yardım metnine ve öğrenci kayıtlarına dayanır.\n• Kendi yapay zeka hesabınızla çalışır (Gemini, OpenAI, Claude, Groq, OpenRouter ya da bilgisayardaki Ollama). Anahtar yalnız bu cihazda durur; kullanım Ayarlar › Kullanım Limitleri'nde görünür.\n• İnternet ya da anahtar yoksa yerleşik çevrimdışı danışman devreye girer.\n• Sohbete öğrenci bağlamı eklenebilir; Türkçe / İngilizce / Arapça cevap. Kayıtlar ve yedekler aynen korunur.",
+ "notes_en": "• AI advisor: «Advisor» in the left menu. Ask about the curriculum, lesson plans, student progress, safety and UAV technology; answers are grounded in your curriculum, the help text and student records.\n• Runs on your own AI account (Gemini, OpenAI, Claude, Groq, OpenRouter or Ollama on this computer). The key stays only on this device; usage is shown under Settings › Usage limits.\n• Without internet or a key the built-in offline advisor takes over.\n• A student can be attached to the chat as context; answers in Turkish / English / Arabic. Records and backups are kept unchanged.",
+ "notes_ar": "• المستشار الذكي: «المستشار» في القائمة اليسرى. اسأل عن المنهج وخطط الدروس وتقدّم الطلاب والسلامة وتقنيات الطائرات المسيّرة؛ تستند الإجابات إلى منهجك ونص المساعدة وسجلات الطلاب.\n• يعمل بحساب الذكاء الاصطناعي الخاص بك (Gemini أو OpenAI أو Claude أو Groq أو OpenRouter أو Ollama على هذا الحاسوب). يبقى المفتاح على هذا الجهاز فقط؛ يظهر الاستخدام في الإعدادات › حدود الاستخدام.\n• دون إنترنت أو مفتاح يعمل المستشار المدمج دون اتصال.\n• يمكن إرفاق طالب بالمحادثة كسياق؛ إجابات بالتركية / الإنجليزية / العربية. السجلات والنسخ الاحتياطية محفوظة كما هي."
 }
