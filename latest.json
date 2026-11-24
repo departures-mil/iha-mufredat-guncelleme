@@ -1,12 +1,12 @@
 {
- "version": "3.2",
- "file": "paketler/iha_3_2.b64",
- "sha256": "6da05893f0f8302532181b929eb93d8373395f2a73571528432a7e600a4b8137",
- "size": 1641840,
- "gzlen": 958576,
- "date": "2026-11-23T07:33:24Z",
+ "version": "3.3",
+ "file": "paketler/iha_3_3.b64",
+ "sha256": "199ff030ff07242c51ee87aad6b4ff6cdc6aa1e81723034e9c016232df8b7c3c",
+ "size": 1827252,
+ "gzlen": 1042760,
+ "date": "2026-11-24T05:46:35Z",
  "minShell": 2,
- "notes_tr": "• Yapay zeka danışmanı: sol menüde «Danışman». Müfredat, ders planı, öğrenci gelişimi, güvenlik ve İHA teknolojileri hakkında sorular sorun; cevaplar kurumunuzun müfredatına, yardım metnine ve öğrenci kayıtlarına dayanır.\n• Kendi yapay zeka hesabınızla çalışır (Gemini, OpenAI, Claude, Groq, OpenRouter ya da bilgisayardaki Ollama). Anahtar yalnız bu cihazda durur; kullanım Ayarlar › Kullanım Limitleri'nde görünür.\n• İnternet ya da anahtar yoksa yerleşik çevrimdışı danışman devreye girer.\n• Sohbete öğrenci bağlamı eklenebilir; Türkçe / İngilizce / Arapça cevap. Kayıtlar ve yedekler aynen korunur.",
- "notes_en": "• AI advisor: «Advisor» in the left menu. Ask about the curriculum, lesson plans, student progress, safety and UAV technology; answers are grounded in your curriculum, the help text and student records.\n• Runs on your own AI account (Gemini, OpenAI, Claude, Groq, OpenRouter or Ollama on this computer). The key stays only on this device; usage is shown under Settings › Usage limits.\n• Without internet or a key the built-in offline advisor takes over.\n• A student can be attached to the chat as context; answers in Turkish / English / Arabic. Records and backups are kept unchanged.",
- "notes_ar": "• المستشار الذكي: «المستشار» في القائمة اليسرى. اسأل عن المنهج وخطط الدروس وتقدّم الطلاب والسلامة وتقنيات الطائرات المسيّرة؛ تستند الإجابات إلى منهجك ونص المساعدة وسجلات الطلاب.\n• يعمل بحساب الذكاء الاصطناعي الخاص بك (Gemini أو OpenAI أو Claude أو Groq أو OpenRouter أو Ollama على هذا الحاسوب). يبقى المفتاح على هذا الجهاز فقط؛ يظهر الاستخدام في الإعدادات › حدود الاستخدام.\n• دون إنترنت أو مفتاح يعمل المستشار المدمج دون اتصال.\n• يمكن إرفاق طالب بالمحادثة كسياق؛ إجابات بالتركية / الإنجليزية / العربية. السجلات والنسخ الاحتياطية محفوظة كما هي."
+ "notes_tr": "• Yeni: ✦ Asistan Agent — bütün programlarınızdaki çalışmanızı izler ve daha verimli çalışmanız için öneriler verir (bildirim + program içi panel). Ayarlar'dan açılıp kapatılabilir.",
+ "notes_en": "• New: ✦ Assistant Agent — follows your work across all your programs and suggests how to work more effectively (notifications + in-app panel). Can be turned on/off in Settings.",
+ "notes_ar": "• جديد: ✦ الوكيل المساعد — يتابع عملك في جميع برامجك ويقترح طرقاً للعمل بكفاءة أكبر (إشعارات + لوحة داخل البرنامج). يمكن تشغيله أو إيقافه من الإعدادات."
 }
